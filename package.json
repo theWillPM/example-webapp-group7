@@ -1,0 +1,12 @@
+{
+    "name": "example",
+    "version": "1.0.0",
+    "description": "message app",
+    "main": "server.js",
+    "author": "Fabio Weck",
+    "license": "",
+    "dependencies": {
+        "body-parser": "1.20.2",
+        "express": "4.19.2"
+    }
+}
